@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "un joc: Q-UP"
+date:   2025-11-11 22:55:15 +0100
+---
+De la gent que va fer [Universal Paperclips](https://www.decisionproblem.com/paperclips/index2.html), és un joc incremental que simula un e-sport, bàsicament és jugar a cara o creu al millor de tres, en equips de 4. 
+
+La part incremental que fa pujar els números és que cada personatge té una graella, amb nodes que s'activen en funció del resultat de la moneda. Al principi és una mica confús, però és merda de la bona.
+
+[Q-Up a Steam](https://store.steampowered.com/app/3730790/QUP/)
