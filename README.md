@@ -1,1 +1,1 @@
-# [Una paraula](https://henryhey.github.io/unaparaula)
+# [una paraula](https://henryhey.github.io/unaparaula)
